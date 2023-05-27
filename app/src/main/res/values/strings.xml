@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">mdrrmo_5.0.1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string-array name="provinces">
+        <item>Province 1</item>
+        <item>Province 2</item>
+        <item>Province 3</item>
+        <item>Province 4</item>
+        <item>Province 5</item>
+    </string-array>
+
+    <string-array name="municipality">
+        <item>Municipality 1</item>
+        <item>Municipality 2</item>
+        <item>Municipality 3</item>
+        <item>Municipality 4</item>
+        <item>Municipality 5</item>
+    </string-array>
+
+
+</resources>
